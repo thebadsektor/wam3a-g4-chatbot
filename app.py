@@ -13,7 +13,7 @@ def create_sample_csv():
         ['Hello', 'Hello! Im a chatbot'],
         ['Hi', 'Hi Im a chatbot'],
         ['I want to shift', 'Contact the Registar Office for more information about shifting'],
-        ['How are you?', 'Im doing well, thank you!'],
+        ['How are you?', 'Im doing well thank you!'],
         ['Whats the weather today?', 'Im not a weather forecaster.'],
         ['Who created you?', 'I was created by a students in LSPU.'],
         ['How can I shift from  another course?', 'Contact the Registars Office offering the course for the application process.'],
